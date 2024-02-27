@@ -1,0 +1,10 @@
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\bin\Debug\AG_PD_v14.exe.config
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\bin\Debug\AG_PD_v14.exe
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\bin\Debug\AG_PD_v14.pdb
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.csprojAssemblyReference.cache
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.Properties.Resources.resources
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.csproj.GenerateResource.cache
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.csproj.CoreCompileInputs.cache
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.exe
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.pdb
+Z:\Datorika 10.g\GitPD\AG_PD_v14\AG_PD_v14\obj\Debug\AG_PD_v14.Form1.resources
